@@ -62,10 +62,6 @@ header div h1 {
   font-size: 1.125rem;
 }
 
-.nav li a:last-child {}
-
-
-/*
-.nav li a:last-of-type {
+.nav li:last-of-type a {
   border-right: 0;
-}*/
+}
